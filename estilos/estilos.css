@@ -195,6 +195,11 @@ body {
   }
 }
 
+.navbar a {
+  background-image: -webkit-gradient(linear, right top, left top, from(#16996d), color-stop(#24e624), to(#42665a));
+  background-image: linear-gradient(to left, #16996d, #24e624, #42665a);
+}
+
 .navbar-brand p {
   text-align: center;
   font-size: 10px;

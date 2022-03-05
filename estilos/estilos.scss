@@ -56,6 +56,9 @@ body{
     
             }
     }
+    a{
+        background-image: linear-gradient(to left,$color1,$color2, $color3);
+    }
 }
 .navbar-brand p{
     text-align: center;
